@@ -12,6 +12,12 @@ Use [Kaggle Docker](https://console.cloud.google.com/gcr/images/kaggle-gpu-image
     $ python make_structure_feat_test.py
     ```
     Place contrafold bpps and unzip in in the `input` directory
+    * https://www.kaggle.com/code/tattaka/contrafold-test-bpps-1000000
+    * https://www.kaggle.com/code/tattaka/contrafold-test-bpps-500000-1000000
+    * https://www.kaggle.com/code/tattaka/contrafold-test-bpps-0-500000
+    * https://www.kaggle.com/code/tattaka/contrafold-train-bpps-600000
+    * https://www.kaggle.com/code/tattaka/contrafold-train-bpps-300000-600000
+    * https://www.kaggle.com/code/tattaka/contrafold-train-bpps-0-300000 
 
 2. Training
     ```bash
